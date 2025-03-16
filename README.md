@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iFeWeaR97
 - 👀 I’m interested in Learning something new....
-- 🌱 I’m currently learning C# and XAML and Java.
+- 🌱 I’m currently working with C# and XAML and Java.
 - 💞️ I’m looking to collaborate on anything for beginners in C# or Java.
 - 📫 How to reach me Github
 - ⚡ Fun fact: Why are coding bugs called "bugs"?
