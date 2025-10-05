@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @iFeWeaR97<br>👀 I’m interested in Learning something new....<br>🌱 I’m currently working with C# and XAML and Java.<br>💞️ I’m looking to collaborate on anything for beginners in C# or Java.<br>📫 How to reach me Github<br>⚡ Fun fact: Why are coding bugs called "bugs"?<br><br>The term "bug" originated in 1947 when a moth got stuck in the Harvard Mark II computer, causing it to malfunction. <br>Engineers removed the moth and logged the event as "debugging," which is why we now use the term "bug" to describe software issues.
+👋 Hi, I’m @iFeWeaR97<br>👀 I’m interested in Learning something new....<br>🌱 I’m currently working with C# and XAML and Java.<br>💞️ I’m looking to collaborate on anything for beginners to intermediate in C# or Java.<br>📫 How to reach me Github<br>⚡ Fun fact: Why are coding bugs called "bugs"?<br><br>The term "bug" originated in 1947 when a moth got stuck in the Harvard Mark II computer, causing it to malfunction. <br>Engineers removed the moth and logged the event as "debugging," which is why we now use the term "bug" to describe software issues.
 
 
 ## 🌐 Socials:
